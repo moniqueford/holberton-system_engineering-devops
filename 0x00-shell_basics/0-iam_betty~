@@ -1,0 +1,3 @@
+#!/bin/bash
+#My first sript
+echo "Hello World"
