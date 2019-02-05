@@ -1,2 +1,2 @@
-B#!/bin/bash
-rm -A *.js
+#!/bin/bash
+find -name '*.js' = find -name *.js
