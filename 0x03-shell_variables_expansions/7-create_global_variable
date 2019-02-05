@@ -1,2 +1,2 @@
 #!/bin/bash
-setGlobalHOLBERTON(Betty)
+export HOLBERTON=Betty
