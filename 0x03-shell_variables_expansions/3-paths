@@ -1,2 +1,2 @@
 #!/bin/bash
-echo PATH | wc
+ls -la | grep -v total | wc -l
