@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Chicago' | tr -cd '[[:alpha:]]'
+echo 'Chicago' | tr -s 'A,c' 'Z,e'
