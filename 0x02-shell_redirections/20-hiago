@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Chicago' | cut -d ',' -f c,C
+echo 'Chicago' | tr -cd '[[:alpha:]]'
