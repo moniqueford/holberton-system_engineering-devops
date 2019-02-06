@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Chicago' | tr -s 'A,c' 'Z,e'
+echo 'Chicago' | tr -s 'c,C'
